@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2013\Projects\ConsoleApplication66\ConsoleApplication66\bin\Debug\ConsoleApplication66.exe.config
+c:\users\student\documents\visual studio 2013\Projects\ConsoleApplication66\ConsoleApplication66\bin\Debug\ConsoleApplication66.exe
+c:\users\student\documents\visual studio 2013\Projects\ConsoleApplication66\ConsoleApplication66\bin\Debug\ConsoleApplication66.pdb
+c:\users\student\documents\visual studio 2013\Projects\ConsoleApplication66\ConsoleApplication66\obj\Debug\ConsoleApplication66.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\ConsoleApplication66\ConsoleApplication66\obj\Debug\ConsoleApplication66.exe
+c:\users\student\documents\visual studio 2013\Projects\ConsoleApplication66\ConsoleApplication66\obj\Debug\ConsoleApplication66.pdb
+C:\Users\сергей\Downloads\ConsoleApplication66\ConsoleApplication66\ConsoleApplication66\bin\Debug\ConsoleApplication66.exe.config
+C:\Users\сергей\Downloads\ConsoleApplication66\ConsoleApplication66\ConsoleApplication66\obj\Debug\ConsoleApplication66.exe
+C:\Users\сергей\Downloads\ConsoleApplication66\ConsoleApplication66\ConsoleApplication66\obj\Debug\ConsoleApplication66.pdb
+C:\Users\сергей\Downloads\ConsoleApplication66\ConsoleApplication66\ConsoleApplication66\bin\Debug\ConsoleApplication66.exe
+C:\Users\сергей\Downloads\ConsoleApplication66\ConsoleApplication66\ConsoleApplication66\bin\Debug\ConsoleApplication66.pdb
+C:\Users\сергей\Downloads\ConsoleApplication66\ConsoleApplication66\ConsoleApplication66\obj\Debug\ConsoleApplication66.csprojResolveAssemblyReference.cache
